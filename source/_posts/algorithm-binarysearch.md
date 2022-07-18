@@ -1,5 +1,4 @@
 ---
-emoji: 🏃
 categories: algorithm
 title: 이분 탐색
 author: 범수
