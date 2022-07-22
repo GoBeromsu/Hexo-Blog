@@ -94,6 +94,11 @@ include:
 exclude:
 ignore:
 
+sitemap:
+    path: sitemap.xml
+    tag: false  #tag 는 사이트맵에서 제외
+    category: false #category 사이트맵에서 제외
+
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
