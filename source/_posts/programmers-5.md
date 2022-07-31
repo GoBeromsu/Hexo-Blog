@@ -2,7 +2,7 @@
 title: 신규 아이디 추천
 categories: algorithm
 date: 2022-07-25 15:54:34
-tags: programmers
+tags: Programmers
 ---
 
 ## 풀이

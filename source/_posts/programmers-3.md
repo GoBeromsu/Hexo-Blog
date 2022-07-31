@@ -2,7 +2,7 @@
 title: 폰켓몬
 categories: algorithm
 date: 2022-07-23 14:14:59
-tags: programmers
+tags: Programmers
 ---
 
 ## 풀이

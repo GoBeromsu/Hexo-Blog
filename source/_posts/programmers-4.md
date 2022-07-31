@@ -2,7 +2,7 @@
 title: 더 맵게
 categories: algorithm
 date: 2022-07-23 14:28:09
-tags: programmer
+tags: Programmers
 ---
 
 ## 풀이
